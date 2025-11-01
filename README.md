@@ -86,4 +86,4 @@ It aims to provide **insights for manufacturers, policymakers, and analysts** to
 ## 🚀 How to Use
 1. Clone this repository  
    ```bash
-   git clone https://github.com/Deepak2gr/EV-Expense-Analytics.git
+   git clone (https://github.com/Deepak2gr/Ev-analysis-Power_Bi)
